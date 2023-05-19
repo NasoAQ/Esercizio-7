@@ -131,7 +131,7 @@ nav ul li:last-child:hover {
     background-color: rgb(203 198 198 / 59%);
     border-radius: 0.3em;
     padding: 0.1em 0.5em;
-    font-size: 1vw;
+    font-size: 0.9vw;
     margin-left: 10px;
 }
 
@@ -140,5 +140,5 @@ nav ul li:last-child:hover {
     justify-content: space-between;
     align-items: center;
     font-size: 0.8rem;
-    width: 33%;
+    width: 30%;
 }
